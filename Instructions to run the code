@@ -1,0 +1,10 @@
+# Hangman-Mini-project
+Find the word game
+Instructions to run the program
+1)Run the code and the program shows the length of word by displaying '_'.
+2)The program asks for user input.
+3)Type a character that you think the word to be predicted has and click on enter.
+4)The program shows you weather your guess is write or wrong and the number of wrong attempts you can make.
+5)If your guess in right then the program places the character, that you have given, in its place .
+6)If your guess is wrong or you have given an empty input then you will loose an attempt.
+7)Keep on giving the input untill you guess the word correctly or yours attempts get exhausted.
